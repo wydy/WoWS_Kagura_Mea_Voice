@@ -1,6 +1,7 @@
 # 简介
 
 这是一个战舰世界的 **神乐Mea** 语音MOD
+<br>
 暂时缺失：CV语音、快捷指令、消耗品语音
 
 
@@ -81,10 +82,12 @@
 
 - 更改输出格式
 Project - Project Settings - Source Settings
+<br>
 Default Conversion Settings: Verbis Quality High
 ![更改格式.gif](https://i.loli.net/2020/03/23/tJqfQWIjPRD8XNb.gif)
 - 转换文件
 Project - Convert All Audio Files
+<br>
 转换后的文件位于 Documents/WwiseProjects/**ProjectName**/.cache/Windows/SFX
 ![转换.gif](https://i.loli.net/2020/03/23/rwsDXzKcZM2yQfE.gif)
 - 因为转换后的文件被添加了后缀，所以我们需要使用自动重命名软件删除掉后缀
