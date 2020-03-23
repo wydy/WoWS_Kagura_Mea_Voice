@@ -11,7 +11,8 @@
 - 启动游戏
 
 # 修改MOD
-只需要将相应的音频文件（统一增益为0dB，如有特殊情况需要继续增大）转换为wem格式，并且按以下目录结构放置，使用工具生成xml文件即可。
+只需要将相应的音频文件（统一增益为0dB，如有特殊情况需要继续增大）转换为wem格式，并且按以下目录结构放置，使用工具生成xml文件即可<br>
+具体文件用途可以[参考FBK语音包](https://forum.worldofwarships.asia/topic/38024-all-shirakami-fubuki-voice-mod-hololive-vtuber/)（才不是因为懒得写文档）
 ```
 Voice
 ├─Autopilot
