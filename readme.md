@@ -204,3 +204,6 @@ Project - Convert All Audio Files<br>
 4. 运行后会自动生成mod.xml
 5. 使用相同方法运行modxmlupdater.exe
 6. 运行后会生成mod.xml与mod.xml.bak
+
+# 许可
+遵循GPLv3
