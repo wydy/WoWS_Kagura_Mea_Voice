@@ -196,6 +196,7 @@ Project - Convert All Audio Files<br>
 ![更名.gif](https://i.loli.net/2020/03/23/Rp4iKVWlmHevOna.gif)
 
 ## 生成XML文件
+modxmlgenerator工具来源于https://forum.worldofwarships.com/topic/142239-tool-convert-old-voice-mods-to-work-with-0613-and-088/
 1. 打开modxmlgenerator-0.8.8文件夹
 2. 运行modxmlgenerator.exe
 3. 输入MOD文件夹所在路径
