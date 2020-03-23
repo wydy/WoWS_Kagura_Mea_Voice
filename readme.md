@@ -85,18 +85,22 @@ Project - Project Settings - Source Settings
 <br>
 Default Conversion Settings: Verbis Quality High
 ![更改格式.gif](https://i.loli.net/2020/03/23/tJqfQWIjPRD8XNb.gif)
+
 - 转换文件
 Project - Convert All Audio Files
 <br>
 转换后的文件位于 Documents/WwiseProjects/**ProjectName**/.cache/Windows/SFX
 ![转换.gif](https://i.loli.net/2020/03/23/rwsDXzKcZM2yQfE.gif)
+
 - 因为转换后的文件被添加了后缀，所以我们需要使用自动重命名软件删除掉后缀
 ![更名.gif](https://i.loli.net/2020/03/23/Rp4iKVWlmHevOna.gif)
+
 ## 生成XML文件
 1. 打开modxmlgenerator-0.8.8文件夹
 2. 运行modxmlgenerator.exe
 3. 输入MOD文件夹所在路径
 ![批注 2020-03-23 141448.png](https://i.loli.net/2020/03/23/6xoC1O4l2SyspD9.png)
+
 4. 运行后会自动生成mod.xml
 5. 使用相同方法运行modxmlupdater.exe
 6. 运行后会生成mod.xml与mod.xml.bak
