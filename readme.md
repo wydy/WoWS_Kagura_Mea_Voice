@@ -81,14 +81,12 @@
 ![导入.gif](https://i.loli.net/2020/03/23/Kf2UDEalnyVrIkJ.gif)
 
 - 更改输出格式
-Project - Project Settings - Source Settings
-<br>
+Project - Project Settings - Source Settings<br>
 Default Conversion Settings: Verbis Quality High
 ![更改格式.gif](https://i.loli.net/2020/03/23/tJqfQWIjPRD8XNb.gif)
 
 - 转换文件
-Project - Convert All Audio Files
-<br>
+Project - Convert All Audio Files<br>
 转换后的文件位于 Documents/WwiseProjects/**ProjectName**/.cache/Windows/SFX
 ![转换.gif](https://i.loli.net/2020/03/23/rwsDXzKcZM2yQfE.gif)
 
